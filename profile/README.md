@@ -13,8 +13,3 @@
 # Beaulieu'Camp
 
 Lien du site : https://beaulieu-camp.github.io/
-
-Si vous voulez aider ou proposer des trucs, venez sur le Discord 😉 : [https://discord.gg/4T6CnF2qDF](https://discord.gg/xbTnysGgZN)
-Sinon vous pouvez aussi créer des issues ou des discussions sur Github
-
-![image](https://github.com/beaulieu-camp/.github/assets/35542432/03750ec9-af45-44cd-9a4a-4ccf4fbb5a72)
